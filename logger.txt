@@ -1,0 +1,19 @@
+[2025-06-21T14:29:16.986Z] POST /userSync/demo
+[2025-06-21T14:29:16.994Z] File created using Sync function
+[2025-06-21T14:29:25.772Z] GET /userSync/demo
+[2025-06-21T14:29:38.299Z] File read using Sync function
+[2025-06-21T14:29:38.273Z] GET /readSync/demo
+[2025-06-21T14:33:52.241Z] POST /readSync/demo
+[2025-06-21T14:34:03.525Z] POST /userSync/demo
+[2025-06-21T14:34:03.531Z] File created using Sync function
+[2025-06-21T14:34:14.140Z] GET /readSync/demo
+[2025-06-21T14:34:14.142Z] File read using Sync function
+[2025-06-21T14:34:25.234Z] Logger file viewed
+[2025-06-21T14:34:25.232Z] GET /logger
+[2025-06-21T14:34:48.710Z] GET /logg
+[2025-06-21T14:34:53.655Z] Logger file viewed
+[2025-06-21T14:34:53.653Z] GET /logger
+[2025-06-21T14:35:22.642Z] GET /readSync/aaf
+[2025-06-21T14:35:22.642Z] Failed to read file using Sync Function
+[2025-06-21T14:35:34.858Z] GET /logger
+[2025-06-21T14:35:34.859Z] Logger file viewed
